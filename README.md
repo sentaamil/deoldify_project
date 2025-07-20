@@ -1,6 +1,6 @@
 # 🎨 Colorize Images & Videos - DeOldify
 
-![DeOldify Banner](https://github.com/jantic/DeOldify/raw/master/resource_images/ImageColorizerArtistic1.jpg)
+![DeOldify Banner]()
 
 ## 📋 Project Overview
 
@@ -132,12 +132,6 @@ The project includes several test files:
 - **Color Space**: LAB color conversion
 - **GPU Acceleration**: CUDA support
 
-## 📚 Documentation & Tutorials
-
-- **Video Tutorial**: [Complete Guide on YouTube](https://youtu.be/B1OK6cUfAIc)
-- **Original DeOldify Repository**: [jantic/DeOldify](https://github.com/jantic/DeOldify)
-- **Research Paper**: [DeOldify: A Review](https://arxiv.org/abs/...)
-
 ## ⚙️ Configuration Options
 
 ### Image Colorization Parameters
@@ -186,16 +180,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙏 Acknowledgments
 
-- **Jason Antic** - Original DeOldify creator
 - **Fast.ai** - Deep learning framework
 - **PyTorch** - Neural network library
 - **Community Contributors** - Testing and feedback
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/jantic/DeOldify/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/jantic/DeOldify/discussions)
-- **Tutorial**: [YouTube Video](https://youtu.be/B1OK6cUfAIc)
 
 ---
 
