@@ -101,6 +101,12 @@ The project includes several test files:
 - **Test Images**: `bw_test1.jpg`, `bw_test2.jpg`, `bw_test3.jpg`
 - **Test Video**: `bw_test_video.mp4`
 - **Sample Output**: `bw_test_video_deoldify.mp4`
+-![DeOldify Banner](bw_test1.jpg)
+-![DeOldify Banner](bw_test2.jpg)
+-![DeOldify Banner](bw_test3.jpg)
+-![DeOldify Banner](bw_test_video.mp4)
+-![DeOldify Banner](bw_test_video_deoldify.mp4)
+
 
 ## 🛠️ Technical Details
 
