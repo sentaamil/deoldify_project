@@ -1,6 +1,6 @@
 # 🎨 Colorize Images & Videos - DeOldify
 
-![DeOldify Banner]()
+![DeOldify Banner](banner.png)
 
 ## 📋 Project Overview
 
